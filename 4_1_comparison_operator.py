@@ -1,8 +1,8 @@
 ##########################
 ## compare two variables #
 ##########################
-i=5
-j=6
+i=55.56
+j=55.56778
 print("i < j --> {0}".format(i<j))
 print("i > j --> {0}".format(i>j))
 print("i <= j --> {0}".format(i<=j))
